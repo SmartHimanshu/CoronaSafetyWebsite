@@ -1,0 +1,32 @@
+heading_colour_light_green {
+color:#7cf794
+}
+heading_colour_red {
+color:red;
+}
+heading_colour_blue{
+color:blue
+}
+heading_font_size{
+font-size:38.5px
+}
+.left_20px{
+margin-left:20px
+}
+.InfromationBoxOne{
+  width: 1000px;
+  border: 1px solid blue;
+  padding: 5px;
+  margin-left: 5px;
+  margin-top: 2px;
+}
+middleHeading_size{
+  font-size: 30px
+} 
+.normal_textstyle{
+  font-size: 20px;
+  color: blue
+}
+.IMG_STYLE{
+  border:1px solid blue;
+}
